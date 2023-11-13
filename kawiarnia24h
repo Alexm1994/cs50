@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Kawiarnia24h - Coffee Selection</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Kawiarnia24h</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#products">Products</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="home">
+            <h2>Explore Our Coffee Collection</h2>
+            <!-- Add content here -->
+        </section>
+        <section id="products">
+            <h2>Our Coffee Products</h2>
+            <!-- Add product listings here -->
+        </section>
+        <section id="about">
+            <h2>About Kawiarnia24h</h2>
+            <!-- Add company information here -->
+        </section>
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <!-- Add contact information or form here -->
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Kawiarnia24h - All Rights Reserved</p>
+    </footer>
+</body>
+</html>
